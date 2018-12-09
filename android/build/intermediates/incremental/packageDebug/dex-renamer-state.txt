@@ -1,0 +1,7 @@
+#Fri Feb 24 21:31:13 CET 2017
+base.0=C\:\\Users\\josik\\Documents\\DAM\\2Segundo\\progMultimedia\\SpaceInvaders\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_28b32ea30aa38e81e5503b73f5619289a6fe1bf8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\josik\\Documents\\DAM\\2Segundo\\progMultimedia\\SpaceInvaders\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4293f3831265e6bf6524af84bc805b3ea0b4737e\\classes.dex
+base.1=C\:\\Users\\josik\\Documents\\DAM\\2Segundo\\progMultimedia\\SpaceInvaders\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4293f3831265e6bf6524af84bc805b3ea0b4737e
+file.0=C\:\\Users\\josik\\Documents\\DAM\\2Segundo\\progMultimedia\\SpaceInvaders\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_28b32ea30aa38e81e5503b73f5619289a6fe1bf8\\classes.dex

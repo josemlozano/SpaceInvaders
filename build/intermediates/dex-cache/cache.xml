@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\josik\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.5\c8098219abfe00b849cc43d461b1105fea3a2944\gdx-box2d-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.5_fd6593ae6b0d6897b191f8d152afa92c015d08b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c509fbc29fd361d249d0b90d04478b07696417a">
+        <dex dex="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4293f3831265e6bf6524af84bc805b3ea0b4737e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\josik\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.9.5\d5f39f0adb13cabf7ab5b539b162ae89fa693009\gdx-controllers-android-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5f39f0adb13cabf7ab5b539b162ae89fa693009">
+        <dex dex="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-controllers-android-1.9.5_869cfd46089a41d02853674ce84d0cc8a554c8d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\josik\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.5\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\gdx-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.5_be0c32fbc096b905b8afcedf5c1b42faabab0e1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\josik\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.9.5\5a067651ea4cb1402faff77c4f73e8bfc6bc92b5\gdx-controllers-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a067651ea4cb1402faff77c4f73e8bfc6bc92b5">
+        <dex dex="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-controllers-1.9.5_4c73e39bca54f180d36c9245753bac80f8c80a7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca2ad6a79ee1da89a8ce8d18129b1fcb59d73ab2">
+        <dex dex="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_28b32ea30aa38e81e5503b73f5619289a6fe1bf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\josik\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.5\293bbe05bfb5ca812c849e4d1f494f56509d5a6e\gdx-backend-android-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.5_e6a6af6343a9306a9bbfec386b43d1aa3d598c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\josik\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-ai\1.8.0\ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5\gdx-ai-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-ai-1.8.0_6ea14397632821fb01ec1b195e1b80402713289c\classes.dex" />
+    </item>
+
+</items>

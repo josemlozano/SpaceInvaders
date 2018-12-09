@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="76098044562006"
+    token="-3544025193360794295" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="76071230003742"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\outputs\apk\android-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="76098044562006" />
+    <build
+        timestamp="121447154342917"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\josik\Documents\DAM\2Segundo\progMultimedia\SpaceInvaders\android\build\outputs\apk\android-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
